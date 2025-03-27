@@ -3,6 +3,7 @@ module go-rest-api
 go 1.24.0
 
 require (
+	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/labstack/echo/v4 v4.13.3 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
